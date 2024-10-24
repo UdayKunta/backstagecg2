@@ -4,6 +4,7 @@ metadata:
   name: "backstagecg2"
   description: An example template
   annotations:
+    github.com/project-slug: UdayKunta/backstagecg2
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
